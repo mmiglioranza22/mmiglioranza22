@@ -10,7 +10,7 @@ I am currently looking for opportunities to challenge and improve my programming
 
 ### Programming Languages & Technologies:
 
-JavaScript (ES6), React.js, Redux.js, Node.js, Express.js, SQLite, PostgreSQL, Sequelize, HTML, CSS.
+JavaScript (ES6), React.js, Redux.js, Node.js, Express.js, SQLite, PostgreSQL, Sequelize, Git, HTML, CSS.
 
 ### How to contact me?
 
