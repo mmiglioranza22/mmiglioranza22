@@ -8,9 +8,14 @@ I love everything that involves programming and technology. I am passionate abou
 
 I am currently looking for opportunities to challenge and improve my programming knowledge and expertise, and to contribute in small or big proyects. I am particularly interested in front-end & back-end technologies, as well as testing.
 
-### Programming Languages & Technologies:
+### Programming Languages & Technologies I currently use:
 
 JavaScript (ES6), React.js, Redux.js, Node.js, Express.js, SQLite, PostgreSQL, Sequelize, Git, HTML, CSS.
+
+
+### Programing Languages & Technologies on my wishlist/todo-list:
+
+MongoDB, Angular.js, Vue.js, Java, React-Native, Kotlin, C#, Python, .NET *(and many to come!)*
 
 ### How to contact me?
 
