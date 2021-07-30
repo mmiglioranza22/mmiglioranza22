@@ -6,7 +6,7 @@ My name is Manuel Agustín Miglioranza. I'm a Full Stack Web Developer currently
 
 I love everything that involves programming and technology. I am passionate about learning new skills and technologies that can impact positively in peoples lives and businesses, and help me become a better developer & programmer. I am very curious about everything: you'll always find me reading, studying or learning something new, whichever the field or topic!
 
-I am currently looking for opportunities to challenge and improve my programming knowledge and expertise, and to contribute in small or big proyects. I am particularly interested in front-end & back-end technologies, as well as testing.
+I am currently looking for opportunities to challenge and improve my programming knowledge and expertise, and to contribute in small and big projects. I am particularly interested in front-end & back-end technologies, as well as testing.
 
 ### Programming Languages & Technologies I currently use:
 
