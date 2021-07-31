@@ -14,7 +14,7 @@ JavaScript (ES6), React.js, Redux.js, Node.js, Express.js, SQLite, PostgreSQL, S
 
 ### Programing Languages & Technologies on my todo-list:
 
-TypeScript, React-Native, Nest.js, Deno, MongoDB, Angular.js, GraphQL, Vue.js, Java, React-Native, Kotlin, C#, Python, .NET *(and many to come!)*
+TypeScript, React-Native, Nest.js, Deno, MongoDB, Angular.js, GraphQL, Vue.js, Java, Kotlin, C#, Python, .NET *(and many to come!)*
 
 ### How to contact me?
 
