@@ -12,9 +12,9 @@ I am currently looking for opportunities to challenge and improve my programming
 
 JavaScript (ES6), React.js, Redux.js, Node.js, Express.js, SQLite, PostgreSQL, Sequelize, Git, HTML, CSS.
 
-### Programing Languages & Technologies on my wishlist/todo-list:
+### Programing Languages & Technologies on my todo-list / wishlist:
 
-TypeScript, Nest.js, MongoDB, Angular.js, Vue.js, Java, React-Native, Kotlin, C#, Python, .NET *(and many to come!)*
+TypeScript, Nest.js, MongoDB, Angular.js, GraphQL, Vue.js, Java, React-Native, Kotlin, C#, Python, .NET *(and many to come!)*
 
 ### How to contact me?
 
