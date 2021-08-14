@@ -10,7 +10,7 @@ I am currently looking for opportunities to challenge and improve my programming
 
 ### Programming Languages & Technologies I currently use:
 
-JavaScript (ES6), React.js, Redux.js, Node.js, Express.js, SQLite, PostgreSQL, Sequelize, MongoDB, Mongoose, Git, HTML, CSS.
+JavaScript (ES6), React.js, Redux.js, Node.js, Express.js, SQLite, PostgreSQL, Sequelize, Git, HTML, CSS.
 
 ### Programing Languages & Technologies on my todo-list:
 
