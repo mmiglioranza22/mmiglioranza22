@@ -12,7 +12,7 @@ I am currently looking for opportunities to challenge and improve my programming
 
 JavaScript (ES6), React.js, Redux.js, Node.js, Express.js, SQLite, PostgreSQL, Sequelize, Git, HTML, CSS.
 
-### In my to-do / doing list:
+### My to-do / doing list:
 
 TypeScript, React-Native, Nest.js, Deno, MongoDB, Mongoose, Angular.js, GraphQL, Vue.js, Java, Kotlin, C#, Python, .NET *(and many to come!)*
 
