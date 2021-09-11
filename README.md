@@ -10,13 +10,12 @@ I am currently looking for opportunities to challenge and improve my programming
 
 ### My current tech stack:
 
-JavaScript (ES6), React.js, Redux.js, Node.js, Express.js, SQLite, PostgreSQL, Sequelize, Git, HTML, CSS.
+JavaScript (ES6), React.js, Redux.js, Node.js, Express.js, PostgreSQL, Sequelize, SQLite, Git, HTML, CSS.
 
 ### My to-do / doing list:
 
-TypeScript, React-Native, Nest.js, Deno, MongoDB, Mongoose, Angular.js, GraphQL, Vue.js, Java, Kotlin, C#, Python, .NET *(and many to come!)*
+TypeScript, React-Native, Nest.js, Deno, MongoDB, Mongoose, Angular.js, GraphQL, Vue.js, Java, Kotlin, C#, Python, .NET _(and many to come!)_
 
 ### How to contact me?
 
 📫 Send me an email: mmiglioranza22@gmail.com, and connect with me on [LinkedIn!](https://www.linkedin.com/in/manuel-miglioranza-arg?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BLveXbnk%2FR9qadzMfiI%2Fj0g%3D%3D)
-
