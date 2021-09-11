@@ -10,11 +10,11 @@ I am currently looking for opportunities to challenge and improve my programming
 
 ### My current tech stack:
 
-JavaScript (ES6), React.js, Redux.js, Node.js, Express.js, PostgreSQL, Sequelize, SQLite, Git, HTML, CSS.
+JavaScript (ES6), TypeScript, React.js, Redux.js, React-Native, Node.js, Express.js, PostgreSQL, Sequelize, SQLite, Git, HTML, CSS.
 
 ### My to-do / doing list:
 
-TypeScript, React-Native, Nest.js, Deno, MongoDB, Mongoose, Angular.js, GraphQL, Vue.js, Java, Kotlin, C#, Python, .NET _(and many to come!)_
+Nest.js, Deno, MongoDB, Mongoose, Angular.js, GraphQL, Vue.js, Java, Kotlin, C#, Python, .NET _(and many to come!)_
 
 ### How to contact me?
 
