@@ -1,4 +1,4 @@
-# Hi there! / Hola! / Salut! 👋💻🚀 I'm Manu 
+# Hi there! 👋💻🚀 I'm Manuel Miglioranza 
 
 ```javascript
     const mmiglioranza22 = {
