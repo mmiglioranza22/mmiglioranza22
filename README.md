@@ -5,7 +5,7 @@
       fullName: "Manuel Agustín Miglioranza",
       profession: "Full Stack Dev 🧑‍💻", 
       currentlyBased: "Buenos Aires📍- Argentina 🇦🇷",
-      spokenLanguages: ["español🧉🥟", "english🫖💂", "français🥖🥐", "italiano🤌🍝"],
+      spokenLanguages: ["español 🧉🥟", "english ☕💂", "français 🥖🥐", "italiano 🍕🍝"],
       techStack: {
         code: JavaScript,
         tools: {
