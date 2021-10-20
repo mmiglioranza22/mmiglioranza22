@@ -19,9 +19,8 @@
            versionControl: Git
          },
       currentlyLearning: [TypeScript, Serverless, AWS, Mocha, Jest, Docker],
-      todolist: [Socket, Firebase, React-Native, Next, 
-                 Nest, Deno, GraphQL, Angular, Vue, Solidity, 
-                 Java, C#, Python, .NET, NGINX, Jenkins, Redis],
+      todolist: [Socket, Firebase, React-Native, Next, Nest, Deno, GraphQL, Angular, 
+                 Vue, Solidity, Java, C#, Python, .NET, NGINX, Jenkins, Redis],
       funFacts: ["lawyer🧑‍⚖️", "waiter🍾", "homebrewer🍺"]
     };
 ```
