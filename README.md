@@ -5,7 +5,6 @@
       fullName: "Manuel Agustín Miglioranza",
       profession: "Full Stack Dev 🧑‍💻", 
       currentyBased: "Buenos Aires📍- Argentina 🇦🇷",
-      age: 28,
       spokenLanguages: ["español🧉🥟", "english🫖💂", "français🥖🥐", "italiano🤌🍝"],
       techStack: {
         code: JavaScript,
