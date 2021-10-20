@@ -4,20 +4,21 @@
     const mmiglioranza22 = {
       fullName: "Manuel Agustín Miglioranza",
       profession: "Full Stack Dev 🧑‍💻", 
-      currentyBased: "Buenos Aires📍- Argentina 🇦🇷",
+      currentlyBased: "Buenos Aires📍- Argentina 🇦🇷",
       spokenLanguages: ["español🧉🥟", "english🫖💂", "français🥖🥐", "italiano🤌🍝"],
       techStack: {
         code: JavaScript,
         tools: {
-           frontEnd: [React, Redux, Material-UI, TailwindCSS],
-           backEnd: [Node, Express, Sequelize, Mongoose],
-           databases: {
-              sql: PostgreSQL,
-              nosql: MongoDB
-           },
-           deployment: [Heroku, Vercel],
-           versionControl: Git
-         },
+          frontEnd: [React, Redux, Material-UI, TailwindCSS],
+          backEnd: [Node, Express, Sequelize, Mongoose],
+          databases: {
+            sql: PostgreSQL,
+            nosql: MongoDB
+          },
+          deployment: [Heroku, Vercel],
+          versionControl: Git
+        },
+      },
       currentlyLearning: [TypeScript, Serverless, AWS, Mocha, Jest, Docker],
       todolist: [Socket, Firebase, React-Native, Next, Nest, Deno, GraphQL, Angular, 
                  Vue, Solidity, Java, C#, Python, .NET, NGINX, Jenkins, Redis],
