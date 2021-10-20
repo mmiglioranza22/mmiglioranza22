@@ -2,11 +2,11 @@
 
 ```javascript
     const mmiglioranza22 = {
-      fullName: "Manuel Agustín Miglioranza",
+      fullName: Manuel Agustín Miglioranza,
       profession: Full Stack Dev 🧑‍💻, 
       currentyBased: "Buenos Aires📍- Argentina 🇦🇷",
       age: 28,
-      spokenLanguages: ["español🧉🥟", "english 🫖💂", "français🥖🥐", "italiano🤌🍝"],
+      spokenLanguages: [español🧉🥟, english 🫖💂, français🥖🥐, italiano🤌🍝],
       techStack: {
         code: JavaScript,
         tools: {
