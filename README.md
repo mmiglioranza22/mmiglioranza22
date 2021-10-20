@@ -4,9 +4,9 @@
     const mmiglioranza22 = {
       fullName: Manuel Agustín Miglioranza,
       profession: Full Stack Dev 🧑‍💻, 
-      currentyBased: "Buenos Aires📍- Argentina 🇦🇷",
+      currentyBased: Buenos Aires📍- Argentina 🇦🇷,
       age: 28,
-      spokenLanguages: [español🧉🥟, english 🫖💂, français🥖🥐, italiano🤌🍝],
+      spokenLanguages: [Español🧉🥟, English 🫖💂, Français🥖🥐, Italiano🤌🍝],
       techStack: {
         code: JavaScript,
         tools: {
