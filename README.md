@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Manuel Miglioranza 🧑‍💻🚀
+# Hi there! 👋 I'm Manuel 🧑‍💻🚀
 
 ```javascript
     const mmiglioranza22 = {
