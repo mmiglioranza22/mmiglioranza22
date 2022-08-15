@@ -7,7 +7,7 @@
       currentlyBased: "Buenos Aires📍- Argentina 🇦🇷",
       spokenLanguages: ["español 🧉🥟", "english ☕💂", "français 🥖🥐", "italiano 🍕🍝"],
       techStack: {
-        code: JavaScript,
+        code: Javascript, Typescript
         tools: {
           frontEnd: [React, Redux, Material-UI, TailwindCSS],
           backEnd: [Node, Express, Sequelize, Mongoose],
@@ -19,9 +19,9 @@
           versionControl: Git
         },
       },
-      currentlyLearning: [TypeScript, Serverless, AWS, Mocha, Jest, Docker],
-      todolist: [Socket, Firebase, React-Native, Next, GraphQL, 
-                 Java, Kotlin, Python, NGINX, Jenkins, Redis],
+      currentlyLearning: [Java, Mocha, Jest, Docker, Kubernetes],
+      todolist: [Socket, Firebase, React-Native, Next.js, GraphQL,
+                 Serverless, Kotlin, Python, NGINX, Jenkins, Redis],
       funFacts: ["lawyer🧑‍⚖️", "waiter🍾", "homebrewer🍺"],
       portfolio: mmiglioranza.vercel.app
     };
