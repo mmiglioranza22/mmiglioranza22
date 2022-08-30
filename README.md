@@ -15,7 +15,7 @@
             sql: PostgreSQL,
             nosql: MongoDB
           },
-          deployment: [Heroku, Vercel, Netifly],
+          deployment: [Heroku, Vercel, Netlifly],
           versionControl: Git
         },
       },
